@@ -1,4 +1,4 @@
-# Numerical tests for sequential Bell tests
+# Numerical tests for sequential Bell violations
 
 This repository contains the optimization scripts which produced the numerical results reported in two papers:
 
