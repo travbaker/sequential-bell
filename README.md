@@ -6,7 +6,7 @@ This repository contains the optimization scripts which produced the numerical r
 
 [2] Cheng, S., Liu, L., Baker, T. J., and Hall, M. J. W., “Recycling qubits for the generation of Bell nonlocality between independent sequential observers”, <i>arXiv preprints <a href="https://arxiv.org/abs/2109.03472">2109.03472</a> </i>, 2021.
 
-These scripts requires Python 3 with the latest version of SciPy installed. 
+These scripts requires Python 3 with the latest versions of SciPy and QuTIP installed. 
 
 <h3> Contents. </h3>
   
